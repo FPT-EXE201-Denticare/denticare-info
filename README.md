@@ -8,13 +8,13 @@
 - Email: <vulongbinhduong@gmail.com>
 - Phone number: 0866742614
 
-**Vũ Minh Nhật - Front-end leader**  
+**Vũ Minh Nhật - Front-end Leader**  
 **Contact**:
 
 - Email: <minhnhatt0908@gmail.com>
 - Phone number: 0366412667
 
-**Huỳnh Thị Hồng Nhi - Marketing leader**  
+**Huỳnh Thị Hồng Nhi - Marketing Leader**  
 **Contact**:
 
 - Email: <nhihuynh3804@gmail.com>
