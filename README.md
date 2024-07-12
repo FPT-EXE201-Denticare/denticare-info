@@ -33,7 +33,7 @@
 
 ### Special Thanks
 
-We would like to extend our thanks to the ModelLance team for their support in the project. A special thanks goes to Dang Kim Minh Tien, the team leader, whose guidance and advice is dedicated. Your commitment and hard work are deeply appreciated.
+We would like to extend our thanks to the Modelance team for their support in the project. A special thanks goes to Dang Kim Minh Tien, the team leader, whose guidance and advice is dedicated. Your commitment and hard work are deeply appreciated.
 
 ---
 
@@ -43,4 +43,4 @@ To get any resources in the project, please contact to project leader to get per
 
 ---
 
-### Copyright © 2024 DentiCare. All rights reserved
+### Copyright © 2024 Denticare. All rights reserved
