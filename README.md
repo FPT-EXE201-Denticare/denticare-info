@@ -1,4 +1,4 @@
-![Denticare image](https://drive.google.com/uc?export=view&id=1ZtNjD4b_SBdf7aZD8E2aYTN_7bpSq5hi)
+![Denticare image]()
 
 ## Operation Team Members
 
